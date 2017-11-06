@@ -1,0 +1,2 @@
+# kino
+to jest readme 
